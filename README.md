@@ -91,9 +91,9 @@ Docker, Dokku and Heroku deployment tutorials are to be added soon.
 <!-- CONTACT -->
 ## Contact
 
-Igor Kotua - [@garrrikkotua](https://twitter.com/garrrikkotua) - kotuaigor@gmail.com
+fairsky0201@gmail.com
 
-Project Link: [https://github.com/garrrikkotua/morningly](https://github.com/garrrikkotua/morningly)
+Project Link: [https://github.com/fairskyDev1108/morningly](https://github.com/fairskyDev1108/morningly)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
